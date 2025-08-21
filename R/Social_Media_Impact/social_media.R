@@ -1,8 +1,8 @@
-#Midterm 2 replacement - Experiment meta
+# Experiment meta
 experiment <- read.csv(file.choose())
-#Replacement Midterm - Part 2 - Senate polls Georgia
+#Senate polls Georgia
 senate <- read.csv(file.choose())
-#Replacement midterm - Schools
+# - Schools
 schools <- read.csv(file.choose())
 head(experiment)
 head(senate)
@@ -50,3 +50,4 @@ head(bonus)
 binom.test(522,1004, 0.502)
 binom.test(435,1004, 0.503)
 chisq.test(table(bonus$Your.candidate.vote=="yes", bonus$Region == "East"))
+
