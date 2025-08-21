@@ -1,4 +1,4 @@
-graphics.pptx are the output after making the changes bellow
+graphics.pptx are the output after making the changes bellow. PS: Open raw
 
 demographics.R execute the following
 
