@@ -1,3 +1,5 @@
+graphics.pptx are the output after making the changes bellow
+
 demographics.R execute the following
 
 1. Summarize all variables –
