@@ -45,4 +45,5 @@ hist(myData3$age[myData3$sex == "Female"], main = "Histogram of Sex(Female) samp
 #question 28
 t.test(myData3$age[myData3$sex=="Male"], myData3$age[myData3$sex=="Female"])
 #question 29
+
 wilcox.test(myData3$age[myData3$sex=="Male"], myData3$age[myData3$sex=="Female"])
